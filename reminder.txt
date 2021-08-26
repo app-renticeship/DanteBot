@@ -1,0 +1,1 @@
+LOGHANDLER: function(type,msg,args,commands)

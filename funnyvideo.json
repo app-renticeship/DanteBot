@@ -1,0 +1,12 @@
+{
+  "videos":
+  {
+    "Amer":"path",
+    "Dante":"path"
+  },
+  "whitelist":
+  {
+    "255686771667501056":"PixPerLex",
+    "432083490217918474":"Predicted Team"
+  }
+}
